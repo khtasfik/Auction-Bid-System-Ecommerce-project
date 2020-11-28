@@ -1,0 +1,7 @@
+OS: Android 9.0 (Pie); Funtouch 9.2
+Processor: Qualcomm SDM665 Snapdragon 665
+Display: 6.38” (1080 x 2340)
+RAM: 8GB
+ROM: 128GB
+Back Camera: 48MP+8MP+2MP+2MP
+Front Camera: 32MP

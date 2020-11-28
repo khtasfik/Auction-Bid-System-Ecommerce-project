@@ -1,0 +1,243 @@
+/* Custom css start  */
+.form-check-input {
+  margin-left: 0 !important;
+}
+
+.account__form .input__box input#radio,
+.account__form .input__box input#radio2 {
+  width: 50%;
+  height: 15px;
+}
+
+input#reg_img,
+input#reg_imgF {
+  padding-top: 7px;
+}
+
+.w50 .input__box {
+  width: calc(50% - 10px);
+  float: left;
+  margin-right: 10px !important;
+}
+
+.ar.form-control {
+  height: 38px;
+}
+li.background-success {
+  position: relative;
+}
+
+li.background-success:before {
+  position: absolute;
+  content: "";
+  background: #ff5722;
+  width: 85%;
+  height: 47%;
+  bottom: 25px;
+  z-index: -1;
+  left: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #a09e9e;
+  transition:all .5s
+}
+
+.is-sticky li.background-success:before {
+  bottom: 9px;
+  height: 70%;
+}
+
+li.background-success:hover:before {
+  box-shadow: 0 0 0px #a09e9e;
+}
+
+li.background-success a {
+  color: #fff!important;
+}
+
+.input__box .form-control:focus {
+  box-shadow: none;
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+}
+
+.account__form .input__box input:focus {
+  box-shadow: none;
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+}
+.bid_button, input[name='submit_bid'],span#bid_count {
+  border-radius: 0;
+  margin: 0 5px;
+  padding: 8px 20px;
+  text-transform: uppercase;
+  color: white;
+  background: #3dab05;
+  font-weight: 700;
+  font-size: 17px;
+  border: none;
+  transition: all .5s
+}
+.bid_button:hover, input[name='submit_bid']:hover {
+  background: #ff5722 ;  
+}
+.btn.focus,
+.btn:focus {
+  outline: 0;
+  box-shadow: 0 0 0 0rem rgba(0, 123, 255, 0.25);
+}
+input#twid:focus,input#available:focus {
+  outline: none;
+}
+
+div#home_timer>div {
+    display: inline-block;
+    margin-right: 5px;
+    background: #ff5722 ;
+    padding: 5px;
+    width: 35px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#bidsuccess{
+  display: none
+}
+span#bid_count {
+    background: #ff5722 ;/*
+    padding: 10px;
+    font-weight: 700;
+    border-radius: 5px;*/
+}
+.bid_start_area {
+    box-shadow: 0 0px 5px rgba(0,0,0.2);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background: #494956;
+}
+.arimg img{
+  width: 100%;
+  display: block;;
+}
+
+.border-box{
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+    padding: 20px;
+    border-radius: 5px;
+    transition:all .5s;
+}
+
+.owl-item .product__style--3 {
+    box-shadow: 0 0 10px 
+    rgba(0,0,0,.2);
+    padding-top: 10px;
+    border-radius: 5px;
+    transition: all .5s;
+    margin: 10px;
+}
+.single__product {
+    box-shadow: 0 0 10px 
+    rgba(0,0,0,.2);
+    padding-top: 10px;
+    border-radius: 5px;
+    transition: all .5s;
+    margin-bottom: 30px;
+}
+.border-box:hover,.box-shadow:hover,.owl-item .product__style--3:hover,.single__product:hover {
+    box-shadow: 0 0 3px #ff57226b;
+}
+.box-shadow {
+    box-shadow: 0 0 10px hsla(0, 0%, 0%, 0.14);
+    margin: 5px;
+    max-width: calc(33.33% - 10px);
+    padding: 20px;
+    transition:all .5s;
+}
+.box-shadow .product__content.content--center {
+    padding: 0!important;
+}
+.error{
+  display:none;
+}
+.shipping_address {
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 10px;
+    transition: all .5s
+}
+.shipping_address:hover {
+  background: #fff;
+}
+.bkash, .rocket{
+  display: none;
+}
+.setting__menu a:hover {
+  color:#ff5722!important;
+}
+a.btn.btn-info.quickview.modal-view.detail-link {
+  color: #fff;
+}
+h4.text-center.artext {
+  color: #ffffff!important;
+  background: #ff5722;
+  border-radius: 10px 10px 10px 10px;
+  margin: 10px 0;
+}
+
+.noborder {
+  border: 0 !important;
+  padding-top: 0 !important;
+}
+.miniproduct {
+  border: 1px solid 
+  #ccc8c8;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  padding: 10px 0 9px 30px;
+}
+.block-minicart.minicart__active.is-visible {
+  overflow-y: scroll;
+  max-height: 560px;
+  box-shadow: 0 0 10px 0 
+  #0b0b0b;
+}
+.arposition{
+  position: relative;
+  top:-25px
+}
+.card{
+  display: none;
+}
+.input-group-text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: .375rem .75rem;
+  margin-bottom: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0,0,0,.1);
+}
+hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}

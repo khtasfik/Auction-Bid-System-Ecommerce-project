@@ -1,0 +1,9 @@
+    OS:Funtouch OS 9.1 (based on Android 9.0)
+    Processor: Qualcomm SDM439 Snapdragon 439 (12 nm)
+    Brand: vivo
+    Display:6.35-inch (720 × 1544 (HD+ /LCD /Capacitive multi-touch)
+    Rear Camera:Front 8MP / Rear 13MP + 2MP (Front f/1.8(8MP), Rear f/2.2 (13MP) + f/2.4 (2MP)
+    RAM: 3GB
+    Storage: 32GB
+    Baterry:5000mAh (TYP)
+    Sensors:Fingerprint, Accelerometer, Proximity, E-compass, Ambient Light, Gyroscope

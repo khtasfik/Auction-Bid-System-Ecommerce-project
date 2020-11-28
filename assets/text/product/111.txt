@@ -1,0 +1,16 @@
+    NO RETURN applicable if the seal is broken
+    Deliveries will start from 14th of February 2020
+    Display Size: 6.5 inches,Super AMOLED capacitive touchscreen, 16M colors
+    Resolution:1080 x 2400 pixels, 20:9 ratio (~405 ppi density)
+    OS: Android 10.0; One UI 2,Chipset:Exynos 9611 (10nm)
+    CPU:Octa-core (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)
+    GPU:Mali-G72 MP3
+    Main Camera:48MP + 12MP + 5MP + 5MP
+    Front: 32MP
+    RAM: 6GB
+    Inbuilt Storage (in GB) ROM:128GB
+    Expandable Memory Slot:Upto 512 GB
+    Sound: Loudspeaker, 3.5mm jack
+    Non-removable Li-Po 4000 mAh battery
+    SIM Card:Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)
+    Sensor:Fingerprint (under display, optical), accelerometer, gyro, proximity, compass,ANT+

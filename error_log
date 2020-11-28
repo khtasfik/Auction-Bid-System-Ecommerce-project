@@ -1,0 +1,990 @@
+[11-Apr-2020 13:33:55 Asia/Dhaka] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'tasfikco'@'earth.mydchub.com' to database 'auction' in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[11-Apr-2020 13:33:55 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[11-Apr-2020 13:33:55 Asia/Dhaka] PHP Fatal error:  Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[15-May-2020 02:25:37 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/tasfikco/public_html/auction/views/common/category/product_category.php:55
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 55
+[24-May-2020 15:24:07 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/tasfikco/public_html/auction/views/common/category/product_category.php:55
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 55
+[24-May-2020 15:24:07 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/tasfikco/public_html/auction/views/common/category/product_category.php:55
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 55
+[24-May-2020 15:24:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/tasfikco/public_html/auction/views/common/category/product_category.php:55
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 55
+[24-May-2020 15:24:50 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/tasfikco/public_html/auction/views/common/category/product_category.php:55
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 55
+[06-Jul-2020 16:46:46 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/tasfikco/public_html/auction/views/common/category/product_category.php:55
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 55
+[10-Jul-2020 04:44:13 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[10-Jul-2020 04:44:13 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[10-Jul-2020 04:44:13 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[11-Jul-2020 04:36:01 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[11-Jul-2020 04:36:01 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[11-Jul-2020 04:36:01 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[11-Jul-2020 07:05:33 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[11-Jul-2020 07:05:33 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[11-Jul-2020 07:05:33 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[11-Jul-2020 12:34:25 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[11-Jul-2020 12:34:25 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[11-Jul-2020 12:34:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/laptop.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/laptop.php on line 31
+[11-Jul-2020 15:45:41 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[11-Jul-2020 15:45:41 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[11-Jul-2020 15:45:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/seller-new.php:176
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/seller-new.php on line 176
+[11-Jul-2020 19:24:46 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[11-Jul-2020 19:24:46 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[11-Jul-2020 19:24:46 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[11-Jul-2020 23:56:50 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[11-Jul-2020 23:56:50 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[11-Jul-2020 23:56:50 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[12-Jul-2020 01:19:31 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 01:19:31 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 01:19:31 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[12-Jul-2020 02:35:19 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 02:35:19 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 02:35:19 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[12-Jul-2020 04:00:58 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 04:00:58 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 04:00:58 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[12-Jul-2020 04:38:14 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 04:38:14 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 04:38:14 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[12-Jul-2020 04:38:22 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 04:38:22 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 04:38:22 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[12-Jul-2020 07:57:35 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 07:57:35 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 07:57:35 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/laptop.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/laptop.php on line 31
+[12-Jul-2020 11:51:01 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 11:51:01 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 11:51:01 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[12-Jul-2020 12:22:45 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 12:22:45 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 12:22:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[12-Jul-2020 12:53:30 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 12:53:30 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 12:53:30 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[12-Jul-2020 13:47:44 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 13:47:44 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 13:47:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[12-Jul-2020 13:49:19 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 13:49:19 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 13:49:19 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[12-Jul-2020 13:49:38 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 13:49:38 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 13:49:38 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[12-Jul-2020 19:29:08 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 19:29:08 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 19:29:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[12-Jul-2020 21:22:22 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[12-Jul-2020 21:22:22 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[12-Jul-2020 21:22:22 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/laptop.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/laptop.php on line 31
+[13-Jul-2020 04:38:48 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[13-Jul-2020 04:38:48 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[13-Jul-2020 04:38:48 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[13-Jul-2020 04:38:54 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[13-Jul-2020 04:38:54 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[13-Jul-2020 04:38:54 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[14-Jul-2020 15:32:22 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[14-Jul-2020 15:32:22 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[14-Jul-2020 15:32:22 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[14-Jul-2020 17:58:55 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[14-Jul-2020 17:58:55 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[14-Jul-2020 17:58:55 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[15-Jul-2020 04:35:17 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[15-Jul-2020 04:35:17 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[15-Jul-2020 04:35:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[15-Jul-2020 12:42:25 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[15-Jul-2020 12:42:25 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[15-Jul-2020 12:42:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[15-Jul-2020 15:58:41 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[15-Jul-2020 15:58:41 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[15-Jul-2020 15:58:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[15-Jul-2020 16:22:19 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[15-Jul-2020 16:22:19 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[15-Jul-2020 16:22:19 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[15-Jul-2020 16:27:46 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[15-Jul-2020 16:27:46 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[15-Jul-2020 16:27:46 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[16-Jul-2020 00:43:24 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[16-Jul-2020 00:43:24 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[16-Jul-2020 00:43:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[16-Jul-2020 21:15:21 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[16-Jul-2020 21:15:21 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[16-Jul-2020 21:15:21 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[17-Jul-2020 04:35:08 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[17-Jul-2020 04:35:08 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[17-Jul-2020 04:35:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[18-Jul-2020 05:55:17 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[18-Jul-2020 05:55:17 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[18-Jul-2020 05:55:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[18-Jul-2020 09:11:20 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[18-Jul-2020 09:11:20 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[18-Jul-2020 09:11:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/laptop.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/laptop.php on line 31
+[18-Jul-2020 17:24:42 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[18-Jul-2020 17:24:42 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[18-Jul-2020 17:24:42 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 02:02:03 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 02:02:03 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 02:02:03 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/seller-new.php:176
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/seller-new.php on line 176
+[19-Jul-2020 04:49:21 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 04:49:22 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 04:49:22 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 15:40:01 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 15:40:01 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 15:40:01 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[19-Jul-2020 16:57:25 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 16:57:25 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 16:57:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[19-Jul-2020 16:57:26 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 16:57:26 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 16:57:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[19-Jul-2020 19:30:05 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:05 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 19:30:05 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 19:30:05 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:05 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:05 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:06 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:06 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 19:30:06 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 19:30:07 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:07 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 19:30:07 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 19:30:08 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:08 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 19:30:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 19:30:09 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:09 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 19:30:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 19:30:10 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:10 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 19:30:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 19:30:11 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:11 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 19:30:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 19:30:12 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:12 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 19:30:12 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 19:30:13 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:13 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 19:30:13 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[19-Jul-2020 19:30:14 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:14 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:14 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:15 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:15 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:15 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:16 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:16 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:16 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:17 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:17 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:18 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:18 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:19 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:19 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:19 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:20 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:20 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:20 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:21 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:21 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:21 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:22 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:22 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:22 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:23 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:23 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:23 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:24 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:24 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:25 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:25 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:26 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:26 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:27 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:27 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:27 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 19:30:28 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 19:30:28 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[19-Jul-2020 19:30:28 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[19-Jul-2020 20:27:08 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 20:27:08 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 20:27:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[19-Jul-2020 23:44:54 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[19-Jul-2020 23:44:54 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[19-Jul-2020 23:44:54 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[20-Jul-2020 01:09:18 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 01:09:18 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 01:09:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[20-Jul-2020 02:36:40 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 02:36:40 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[20-Jul-2020 02:36:40 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[20-Jul-2020 03:58:50 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 03:58:50 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 03:58:50 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/laptop.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/laptop.php on line 31
+[20-Jul-2020 04:40:49 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 04:40:49 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 04:40:49 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[20-Jul-2020 04:40:55 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 04:40:55 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[20-Jul-2020 04:40:55 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[20-Jul-2020 04:40:56 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 04:40:56 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 04:40:56 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/seller-new.php:176
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/seller-new.php on line 176
+[20-Jul-2020 04:40:57 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 04:40:57 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 04:40:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[20-Jul-2020 04:41:01 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 04:41:01 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 04:41:01 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[20-Jul-2020 05:18:23 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 05:18:23 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 05:18:23 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/laptop.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/laptop.php on line 31
+[20-Jul-2020 08:01:55 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 08:01:55 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 08:01:55 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/laptop.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/laptop.php on line 31
+[20-Jul-2020 08:43:49 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 08:43:49 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 08:43:49 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[20-Jul-2020 09:29:31 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 09:29:31 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 09:29:31 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[20-Jul-2020 10:10:45 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 10:10:45 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 10:10:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/customer-new.php:176
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/customer-new.php on line 176
+[20-Jul-2020 10:52:15 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 10:52:15 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 10:52:15 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[20-Jul-2020 11:34:24 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 11:34:24 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 11:34:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[20-Jul-2020 12:15:11 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 12:15:11 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 12:15:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[20-Jul-2020 15:13:32 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 15:13:32 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 15:13:32 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/seller-new.php:176
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/seller-new.php on line 176
+[20-Jul-2020 15:35:25 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 15:35:25 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 15:35:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[20-Jul-2020 18:57:10 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 18:57:10 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 18:57:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/customer-new.php:176
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/customer-new.php on line 176
+[20-Jul-2020 23:54:54 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 23:54:54 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 23:54:54 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[20-Jul-2020 23:54:55 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[20-Jul-2020 23:54:55 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[20-Jul-2020 23:54:55 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[21-Jul-2020 01:10:44 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[21-Jul-2020 01:10:44 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[21-Jul-2020 01:10:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/seller-new.php:176
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/seller-new.php on line 176
+[21-Jul-2020 04:41:08 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[21-Jul-2020 04:41:08 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[21-Jul-2020 04:41:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[21-Jul-2020 04:41:24 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[21-Jul-2020 04:41:24 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[21-Jul-2020 04:41:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[21-Jul-2020 04:41:25 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[21-Jul-2020 04:41:25 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[21-Jul-2020 04:41:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[21-Jul-2020 11:24:59 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[21-Jul-2020 11:24:59 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[21-Jul-2020 11:24:59 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[22-Jul-2020 00:09:04 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 00:09:04 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 00:09:04 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[22-Jul-2020 04:43:31 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 04:43:31 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 04:43:31 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[22-Jul-2020 04:43:36 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 04:43:36 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 04:43:36 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[22-Jul-2020 04:43:41 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 04:43:41 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 04:43:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[22-Jul-2020 05:23:56 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 05:23:56 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 05:23:56 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[22-Jul-2020 05:23:59 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 05:23:59 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 05:23:59 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[22-Jul-2020 05:24:02 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 05:24:02 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 05:24:02 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[22-Jul-2020 07:45:17 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 07:45:17 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 07:45:17 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/laptop.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/laptop.php on line 31
+[22-Jul-2020 08:36:59 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 08:36:59 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 08:36:59 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[22-Jul-2020 14:33:39 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 14:33:39 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 14:33:39 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[22-Jul-2020 20:48:51 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 20:48:51 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 20:48:51 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[22-Jul-2020 22:29:47 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 22:29:47 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 22:29:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[22-Jul-2020 23:45:45 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[22-Jul-2020 23:45:45 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[22-Jul-2020 23:45:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[23-Jul-2020 06:01:42 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[23-Jul-2020 06:01:42 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[23-Jul-2020 06:01:42 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[23-Jul-2020 06:31:48 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[23-Jul-2020 06:31:48 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[23-Jul-2020 06:31:48 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/customer-new.php:176
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/customer-new.php on line 176
+[23-Jul-2020 07:16:18 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[23-Jul-2020 07:16:18 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[23-Jul-2020 07:16:18 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[23-Jul-2020 15:55:22 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[23-Jul-2020 15:55:22 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[23-Jul-2020 15:55:22 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/customer-new.php:176
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/customer-new.php on line 176
+[23-Jul-2020 20:58:05 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[23-Jul-2020 20:58:05 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[23-Jul-2020 20:58:05 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[23-Jul-2020 23:52:35 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[23-Jul-2020 23:52:35 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[23-Jul-2020 23:52:35 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[23-Jul-2020 23:52:58 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[23-Jul-2020 23:52:58 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[23-Jul-2020 23:52:58 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/includes/footer.php:59
+Stack trace:
+#0 /home/tasfikco/public_html/auction/index.php(5): require()
+#1 {main}
+  thrown in /home/tasfikco/public_html/auction/includes/footer.php on line 59
+[23-Jul-2020 23:53:03 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[23-Jul-2020 23:53:03 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[23-Jul-2020 23:53:03 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[23-Jul-2020 23:53:10 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[23-Jul-2020 23:53:10 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[23-Jul-2020 23:53:10 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[24-Jul-2020 00:02:04 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[24-Jul-2020 00:02:04 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[24-Jul-2020 00:02:04 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[24-Jul-2020 00:02:11 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[24-Jul-2020 00:02:11 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[24-Jul-2020 00:02:11 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[24-Jul-2020 00:02:21 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[24-Jul-2020 00:02:21 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[24-Jul-2020 00:02:21 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[24-Jul-2020 00:02:32 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[24-Jul-2020 00:02:32 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 150
+[24-Jul-2020 00:02:32 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/category/product_category.php:37
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/category/product_category.php on line 37
+[24-Jul-2020 14:00:39 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[24-Jul-2020 14:00:39 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[24-Jul-2020 14:00:39 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[24-Jul-2020 17:48:42 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[24-Jul-2020 17:48:42 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[24-Jul-2020 17:48:42 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/single-product.php:31
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 31
+[24-Jul-2020 19:18:53 Asia/Dhaka] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'tasfikco'@'elite.mydchub.com' (using password: YES) in /home/tasfikco/public_html/auction/models/ourModel.php on line 16
+[24-Jul-2020 19:18:53 Asia/Dhaka] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/tasfikco/public_html/auction/models/ourModel.php on line 83
+[24-Jul-2020 19:18:53 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on null in /home/tasfikco/public_html/auction/views/common/home.php:75
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(68): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/home.php on line 75
+[05-Aug-2020 20:21:38 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/tasfikco/public_html/auction/views/common/single-product.php:342
+Stack trace:
+#0 /home/tasfikco/public_html/auction/library/controller.php(58): require()
+#1 /home/tasfikco/public_html/auction/index.php(4): require('/home/tasfikco/...')
+#2 {main}
+  thrown in /home/tasfikco/public_html/auction/views/common/single-product.php on line 342
+[26-Nov-2020 18:21:37 Asia/Dhaka] PHP Notice:  Undefined variable: url in /home/tasfikco/public_html/auction/views/common/single-product.php on line 251

@@ -1,0 +1,14 @@
+NO RETURN applicable if the seal is broken
+Size: 6.3 inches, 97.4 cm2 (~81.4% screen-to-body ratio)
+Display Type: IPS LCD capacitive touchscreen, 16M colors
+RAM: 6GB, ROM: 64GB
+Dimensions: 159.2 x 75.2 x 8.1 mm (6.27 x 2.96 x 0.32 in)
+Build Front/back glass (Gorilla Glass 5)
+SI: MHybrid Dual SIM (Nano-SIM, dual stand-by)
+Resolution: 1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)
+Corning Gorilla Glass 5
+OS Android 9.0 (Pie); MIUI 10
+Chipset Qualcomm SDM675 Snapdragon 675 (11 nm)
+CPU Octa-core (2x2.0 GHz Kryo 460 Gold & 6x1.7 GHz Kryo 460 Silver)
+GPU Adreno 612
+MAIN CAMERA Dual 48 MP, f/1.8, (wide), 1/2", 0.8µm, PDAF

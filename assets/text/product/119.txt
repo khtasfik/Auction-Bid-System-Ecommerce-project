@@ -1,0 +1,9 @@
+    NO RETURN applicable if the seal is broken
+    Display: 15.8cm (6.22'') Infinity V Display
+    Camera: Dual Camera with Ultra Wide Lens
+    13MP + 5MP
+    ROM/RAM: 2GB + 16GB
+    OS:Android 8.1 (Oreo)
+    Exynoz Octa-core processor
+    Battery: 3400 mAh
+    Dual SIM (Nano-SIM, dual stand-by)
